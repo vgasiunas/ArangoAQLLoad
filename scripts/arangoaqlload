@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ArangoAQLLoad-0.0.1-jar-with-dependencies.jar com.arangodb.aqlload.ArangoAQLLoad "$@"
